@@ -5075,11 +5075,6 @@
       "mun_code": "084819"
     },
     {
-      "name": "SANTO NIÑO",
-      "prov_code": "0848",
-      "mun_code": "084825"
-    },
-    {
       "name": "SAN ROQUE",
       "prov_code": "0848",
       "mun_code": "084820"
@@ -5223,6 +5218,11 @@
       "name": "SAN JORGE",
       "prov_code": "0860",
       "mun_code": "086025"
+    },
+    {
+      "name": "SANTO NIÑO",
+      "prov_code": "0860",
+      "mun_code": "086027"
     },
     {
       "name": "PAGSANGHAN",
