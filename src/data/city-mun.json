@@ -1403,6 +1403,16 @@
       "name": "ZARAGOZA",
       "prov_code": "0349",
       "mun_code": "034932"
+    }, 
+    {
+      "name": "PENERANDA",
+      "prov_code": "0349",
+      "mun_code": "034933"
+    },  
+    {
+      "name": "MUNOZ",
+      "prov_code": "0349",
+      "mun_code": "034934"
     },
     {
       "name": "ANGELES CITY",
@@ -1988,6 +1998,16 @@
       "name": "GEN. MARIANO ALVAREZ",
       "prov_code": "0421",
       "mun_code": "042123"
+    }, 
+    {
+      "name": "MENDEZ",
+      "prov_code": "0421",
+      "mun_code": "042124"
+    },    
+    {
+      "name": "DASMARIÑAS",
+      "prov_code": "0421",
+      "mun_code": "042125"
     },
     {
       "name": "ALAMINOS",
@@ -2118,6 +2138,16 @@
       "name": "CITY OF SANTA ROSA",
       "prov_code": "0434",
       "mun_code": "043428"
+    },
+    {
+      "name": "LOS BAÑOS LAGUNA",
+      "prov_code": "0434",
+      "mun_code": "043429"
+    },
+    {
+      "name": "BIÑAN",
+      "prov_code": "0434",
+      "mun_code": "043430"
     },
     {
       "name": "SINILOAN",
@@ -3803,6 +3833,11 @@
       "name": "ZARRAGA",
       "prov_code": "0630",
       "mun_code": "063047"
+    },    
+    {
+      "name": "DUEÑAS",
+      "prov_code": "0630",
+      "mun_code": "063048"
     },
     {
       "name": "BACOLOD CITY (Capital)",
